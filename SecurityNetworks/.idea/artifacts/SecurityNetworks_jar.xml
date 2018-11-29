@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SecurityNetworks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SecurityNetworks_jar</output-path>
+    <root id="archive" name="SecurityNetworks.jar">
+      <element id="module-output" name="SecurityNetworks" />
+    </root>
+  </artifact>
+</component>
